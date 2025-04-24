@@ -35,8 +35,8 @@ I'm a passionate developer who loves working on innovative projects and explorin
 ---
 
 ## 📫 Let's Connect
-- ![LinkedIn](http://linkedin.com/in/balakrishna-kini)
-- ![Email](mailto:balakrishnakini22@gmail.com)
+-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((http://linkedin.com/in/balakrishna-kini))
+- [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)(mailto:balakrishnakini22@gmail.com)
 ---
 
 ⭐️ _Feel free to explore my repositories and drop a ⭐️ if you find something interesting!_
