@@ -22,7 +22,7 @@ I'm a passionate developer who loves working on innovative projects and explorin
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Balakrishna-kini&theme=radical)
+![Total Commits](https://badgen.net/github/commits/Balakrishna-kini/Balakrishna-kini/main)
 
 ---
 
@@ -35,8 +35,8 @@ I'm a passionate developer who loves working on innovative projects and explorin
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](http://linkedin.com/in/balakrishna-kini)
-- [Email](mailto:balakrishnakini22@gmail.com)
+- ![LinkedIn](http://linkedin.com/in/balakrishna-kini)
+- ![Email](mailto:balakrishnakini22@gmail.com)
 ---
 
 ⭐️ _Feel free to explore my repositories and drop a ⭐️ if you find something interesting!_
