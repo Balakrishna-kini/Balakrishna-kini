@@ -6,9 +6,9 @@ I'm a passionate developer who loves working on innovative projects and explorin
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **FrontEnd Development **.
+- 🌱 I’m currently learning **FrontEnd Development**.
 - 👨‍💻 I’m working on my **Major Project**.
-- 📫 How to reach me: **http://linkedin.com/in/balakrishna-kini**.
+- 📫 How to reach me: [LinkedIn](http://linkedin.com/in/balakrishna-kini).
 
 ---
 
