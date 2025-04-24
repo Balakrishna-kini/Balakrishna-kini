@@ -22,7 +22,7 @@ I'm a passionate developer who loves working on innovative projects and explorin
 ---
 
 ## 📊 GitHub Stats
-![Balakrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balakrishna-kini&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Balakrishna-kini&theme=radical)
 
 ---
 
