@@ -1,41 +1,37 @@
 # 👋 Hi, I'm Balakrishna Kini!
 
-**Welcome to my GitHub profile!**  
-I'm a passionate developer who loves working on innovative projects and exploring new technologies.
-
----
+An Information Science student with hands-on experience designing, developing, and maintaining full-stack and automation projects using **Java, Spring Boot, MySQL, and React.js**. I’m passionate about building efficient and scalable solutions.
 
 ## 🚀 About Me
+- 🌱 I’m currently focused on enhancing my skills in **full-stack development** with a special interest in backend systems. 
+- 👍 I’m looking to collaborate on projects involving **Java, Spring Boot, React.js**.  
+- 📫 How to reach me: **balakrishnakini22@gmail.com**  
+- 🔗 **Find me online:**  
+    - **LinkedIn:** [linkedin.com/in/balakrishna-kini](https://www.linkedin.com/in/balakrishna-kini)  
+    - **GitHub:** [github.com/Balakrishna-kini](https://github.com/Balakrishna-kini)  
+    - **LeetCode:** [leetcode.com/BalakrishnaKini](https://leetcode.com/BalakrishnaKini)  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I enjoy solving complex coding problems and optimizing algorithms! 
 
-- 📫 How to reach me: [LinkedIn](http://linkedin.com/in/balakrishna-kini).
+## 🔧 Tech Stack
+Languages: Java, Python, SQL, JavaScript, HTML5, CSS3
+Frameworks: Spring Boot, React
+Tools: GitHub, Eclipse, VS Code, Postman
+Database: MySQL
 
----
+## 🛠️ Projects
 
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-3776AB?logo=java&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+### EvalEase - Training Session Portal
+- **Tech Stack:** Java, Spring Boot, React.js, MySQL  
+- **Description:** A web portal for managing training sessions, collecting feedback, and generating analysis reports. Provides role-based access and secure data handling for effective training management.  
+- **Link:** [GitHub](https://github.com/Balakrishna-kini/EvalEase)
 
----
+### Money Manager Application
+- **Tech Stack:** Java, Spring Boot, React.js, MySQL  
+- **Description:** A full-stack application for tracking expenses, managing budgets, and visualizing financial data with secure user authentication.  
+- **Link:** [GitHub](https://github.com/Balakrishna-kini/Money-Manager-Application)
 
-## 📊 GitHub Stats
-![Balakrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balakrishna-kini&show_icons=true&theme=radical)
-
----
-
-## 🌟 Featured Projects
-- [**Deep Fake Video Detection**](https://github.com/Balakrishna-kini/DEEP-FAKE-VIDEO-DETECTION)  
-  A deep learning approach for detecting face-swapped videos.
-- [**Hospitality Chatbot**](https://github.com/Balakrishna-kini/Hospitality_Chatbot)  
-  A chatbot system for the hospitality industry. Built with Python and HTML.
-
----
-
-## 📫 Let's Connect
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/balakrishna-kini)
-[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balakrishnakini22@gmail.com)
-
-
-⭐️ _Feel free to explore my repositories and drop a ⭐️ if you find something interesting!_
+### Deepfake Video Detection
+- **Tech Stack:** Python, ResNet50, LSTM, OpenCV, MTCNN  
+- **Description:** A system to detect deepfake videos by analyzing facial frames with CNNs and LSTMs, providing frame-wise predictions and confidence scores for video authenticity.  
+- **Link:** [GitHub](https://github.com/Balakrishna-kini/DeepfakeVideoDetection)
