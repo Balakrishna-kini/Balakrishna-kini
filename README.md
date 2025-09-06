@@ -4,7 +4,7 @@ An Information Science student with hands-on experience designing, developing, a
 
 ## 🚀 About Me
 - 🌱 I’m currently focused on enhancing my skills in **full-stack development** with a special interest in backend systems. 
-- 👍 I’m looking to collaborate on projects involving **Java, Spring Boot, React.js**.  
+- 👍 I’m looking to collaborate on projects involving **Java, Spring Boot**.  
 - 📫 How to reach me: **balakrishnakini22@gmail.com**  
 - 🔗 **Find me online:**  
     - **LinkedIn:** [linkedin.com/in/balakrishna-kini](https://www.linkedin.com/in/balakrishna-kini)  
@@ -24,7 +24,7 @@ Database: MySQL
 ### EvalEase - Training Session Portal
 - **Tech Stack:** Java, Spring Boot, React.js, MySQL  
 - **Description:** A web portal for managing training sessions, collecting feedback, and generating analysis reports. Provides role-based access and secure data handling for effective training management.  
-- **Link:** [GitHub](https://github.com/Balakrishna-kini/EvalEase)
+- **Link:** [GitHub]([https://github.com/Balakrishna-kini/EvalEase](https://github.com/Balakrishna-kini/EvalEase-A-Feedback-Collection-and-Analysis-Portal))
 
 ### Money Manager Application
 - **Tech Stack:** Java, Spring Boot, React.js, MySQL  
