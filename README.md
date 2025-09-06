@@ -23,12 +23,15 @@ An Information Science student with hands-on experience designing, developing, a
     </a>
    <div>    
 
+<h3 align="left">⚙️Tech Stack</h3>
 
-## 🔧 Tech Stack
+###
+<p align="left">
 Languages: Java, Python, SQL, JavaScript, HTML5, CSS3 
 Frameworks: Spring Boot, React
 Tools: GitHub, Eclipse, VS Code, Postman
 Database: MySQL
+</p>
 
 ## 🛠️ Projects
 
