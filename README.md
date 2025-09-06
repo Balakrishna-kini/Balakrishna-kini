@@ -27,10 +27,10 @@ An Information Science student with hands-on experience designing, developing, a
 
 ###
 <p align="left">
-Languages: Java, Python, SQL, JavaScript, HTML5, CSS3 
-Frameworks: Spring Boot, React
-Tools: GitHub, Eclipse, VS Code, Postman
-Database: MySQL
+Languages: Java, Python, SQL, JavaScript, HTML5, CSS3 <br>
+Frameworks: Spring Boot, React <br>
+Tools: GitHub, Eclipse, VS Code, Postman <br>
+Database: MySQL <br>
 </p>
 
 ## 🛠️ Projects
