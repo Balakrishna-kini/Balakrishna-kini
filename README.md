@@ -22,11 +22,10 @@ An Information Science student with hands-on experience designing, developing, a
       <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="40" alt="LeetCode logo"/>
     </a>
    <div>    
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I enjoy solving complex coding problems and optimizing algorithms! 
+
 
 ## 🔧 Tech Stack
-Languages: Java, Python, SQL, JavaScript, HTML5, CSS3
+Languages: Java, Python, SQL, JavaScript, HTML5, CSS3 
 Frameworks: Spring Boot, React
 Tools: GitHub, Eclipse, VS Code, Postman
 Database: MySQL
@@ -36,14 +35,14 @@ Database: MySQL
 ### EvalEase - Training Session Portal
 - **Tech Stack:** Java, Spring Boot, React.js, MySQL  
 - **Description:** A web portal for managing training sessions, collecting feedback, and generating analysis reports. Provides role-based access and secure data handling for effective training management.  
-- **Link:** [GitHub]([https://github.com/Balakrishna-kini/EvalEase](https://github.com/Balakrishna-kini/EvalEase-A-Feedback-Collection-and-Analysis-Portal))
+- **Link:** [GitHub](https://github.com/Balakrishna-kini/EvalEase-A-Feedback-Collection-and-Analysis-Portal)
 
 ### Money Manager Application
 - **Tech Stack:** Java, Spring Boot, React.js, MySQL  
 - **Description:** A full-stack application for tracking expenses, managing budgets, and visualizing financial data with secure user authentication.  
-- **Link:** [GitHub]([https://github.com/Balakrishna-kini/Money-Manager-Application](https://github.com/Balakrishna-kini/Money-Manager-Application))
+- **Link:** [GitHub](https://github.com/Balakrishna-kini/Money-Manager-Application)
 
 ### Deepfake Video Detection
 - **Tech Stack:** Python, ResNet50, LSTM, OpenCV, MTCNN  
 - **Description:** A system to detect deepfake videos by analyzing facial frames with CNNs and LSTMs, providing frame-wise predictions and confidence scores for video authenticity.  
-- **Link:** [GitHub][(https://github.com/Balakrishna-kini/DeepfakeVideoDetection](https://github.com/Balakrishna-kini/DeepfakeVideoDetection))
+- **Link:** [GitHub](https://github.com/Balakrishna-kini/DeepfakeVideoDetection)
